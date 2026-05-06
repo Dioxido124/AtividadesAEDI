@@ -22,5 +22,7 @@ public class C10EX02 {
         System.out.println("O valor total recebido = "+total);
         System.out.println("A media dos valores recbidos = "+media);
         System.out.println("Quantidade de valores acima de 1000 = "+cont2);
+
+        teclado.close();
     }
 }

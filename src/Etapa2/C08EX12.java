@@ -33,5 +33,7 @@ public class C08EX12 {
         }
         fatu = cont1*1565 + cont2*1890 + cont3*2150 + cont4*2963 + cont5*3750;
         System.out.println("R$ "+fatu);
+
+        teclado.close();
     }
 }

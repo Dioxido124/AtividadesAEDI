@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class C08EX20 {
     public static void main(String[] args){
-        double n, soma = 0, mult = 0, x = 1;
+        double n, soma = 0, x = 1;
         Scanner teclado = new Scanner(System.in);
 
         System.out.print("Digite a quantidade de termos: ");
@@ -17,5 +17,6 @@ public class C08EX20 {
         }
 
         System.out.printf("A soma dos %.0f primeiros termos é %f", n, soma);
+        teclado.close();
     }
 }

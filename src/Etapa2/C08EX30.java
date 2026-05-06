@@ -18,5 +18,6 @@ public class C08EX30 {
         }
 
         System.out.print(s);
+        teclado.close();
     }
 }

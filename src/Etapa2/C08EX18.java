@@ -14,5 +14,6 @@ public class C08EX18 {
             int mult = x * i;
             System.out.println(i+"x"+x+"="+mult);
         }
+        teclado.close();
     }
 }

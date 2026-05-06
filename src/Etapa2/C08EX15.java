@@ -35,5 +35,6 @@ public class C08EX15 {
         media = soma/7;
         System.out.println("A meida dos salarios dos funcionarios com até 18 anos: "+media);
         System.out.println("O nome e o cargo do funcionario que tem o maior salario: "+nomeM+" "+cargoM);
+        teclado.close();
     }
 }

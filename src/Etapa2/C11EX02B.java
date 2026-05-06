@@ -44,5 +44,7 @@ public class C11EX02B {
         System.out.println("Média das aplicaçoes dos clientes bronzes = R$ "+media);
         System.out.println("Volume total das aplicaçoes = R$ "+total);
         System.out.println("Nome do aplicador de menor aplicaçao = "+menor);
+
+        teclado.close();
 }
 }

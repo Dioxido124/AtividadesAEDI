@@ -14,5 +14,7 @@ public class C09EX03 {
             serieN += (1 + Math.sqrt(i*4))/(i*3);
         }
         System.out.println(serieN);
+
+        teclado.close();
     }
 }

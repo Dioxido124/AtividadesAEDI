@@ -1,3 +1,5 @@
+package Etapa2;
+
 import java.util.Scanner;
 
 public class C08EX14 {

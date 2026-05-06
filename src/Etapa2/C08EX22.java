@@ -25,5 +25,6 @@ public class C08EX22 {
         }else {
             System.out.printf("O numero %d nao é primo", num);
         }
+        teclado.close();
     }
 }

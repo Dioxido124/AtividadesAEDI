@@ -23,5 +23,7 @@ public class C10EX07 {
         dias = (totalDias % 365)%30;
 
         System.out.printf("Anos = %d\nMeses = %d\nDias = %d", anos, mes, dias);
+
+        teclado.close();
     }
 }

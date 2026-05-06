@@ -26,6 +26,7 @@ public class C08EX21 {
                 }
 
             System.out.printf("%d | %.2f | %s\n",peso, imc, sc);
+            teclado.close();
         }
     }
 }

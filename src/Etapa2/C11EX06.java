@@ -11,7 +11,7 @@ public class C11EX06 {
         for(int i = 1; i <= 78; i++){
             System.out.print("Digite o canal assistido: ");
             canal = teclado.nextInt();
-            System.out.println("Digite o numero de pessoas: ");
+            System.out.print("Digite o numero de pessoas: ");
             numpessoas = teclado.nextInt();
 
             totalPessoas += numpessoas;
@@ -45,7 +45,7 @@ public class C11EX06 {
         System.out.println("A audiencia total do canal 7 = "+cont7);
         System.out.println("A audiencia total do canal 12 = "+cont12);
         System.out.println("A porcentagem de audiencia para o canal 4 = "+perc4+"%");
-        System.out.println("A porcentagem de audiencia para o canal 7 = "+perc4+"%");
+        System.out.println("A porcentagem de audiencia para o canal 7 = "+perc7+"%");
         System.out.println("A porcentagem de audiencia para o canal 4 = "+perc12+"%");
         System.out.println("O numero do canal mais assistido = "+contMaior);
         System.out.println("A media de pessoas que estavam assistindo = "+media);

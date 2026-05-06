@@ -12,7 +12,7 @@ public class C08EX11 {
         double salario, salmaior = 0, salmenor = 0, cont1 = 0;
         String[] escola = {"1", "2", "3", "4"};
 
-        int indSexo, indCivil, indOlho, indCabelo, indSal,escolaridade, idade;
+        int indSexo, indCivil, indOlho, indCabelo,escolaridade, idade;
 
         for(int i = 1; i < 2; i++) {
             nome = JOptionPane.showInputDialog(null, "Digite seu nome", "Nome", JOptionPane.QUESTION_MESSAGE);
