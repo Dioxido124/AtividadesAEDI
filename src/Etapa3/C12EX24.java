@@ -1,4 +1,4 @@
-package AtividadesAEDI.src.Etapa3;
+package Etapa3;
 
 import java.util.Scanner;
 
@@ -41,5 +41,6 @@ public class C12EX24 {
                 System.out.println(nome[i] + " - " + pont[i] + " - Rebaixado");
             }
         }
+        teclado.close();
     }
 }

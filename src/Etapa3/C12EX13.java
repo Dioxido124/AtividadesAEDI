@@ -1,4 +1,4 @@
-package AtividadesAEDI.src.Etapa3;
+package Etapa3;
 
 import java.util.Scanner;
 
