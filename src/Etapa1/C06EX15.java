@@ -1,3 +1,5 @@
+package Etapa1;
+
 import javax.swing.JOptionPane;
 
 public class C06EX15 {

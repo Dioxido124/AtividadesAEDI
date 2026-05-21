@@ -1,3 +1,5 @@
+package Etapa1;
+
 import java.util.Scanner;
 
 public class C03EX03 {
